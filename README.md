@@ -1,20 +1,105 @@
-<h1 align="center">Hi 👋, I'm Bruna</h1>
-<h3 align="center">A passionate developer from Brazil</h3>
+# Hi 👋, I'm Bruna Rastelli
 
-- 🌱 I’m currently learning **Node.js**
+### Software Developer | DevOps | Site Reliability Engineering (SRE)
 
-- 📫 How to reach me **bruna.rastelli@gmail.com**
+🇧🇷 Based in Brazil
 
-<h3 align="left">Connect with me:</h3>
+I'm a technology professional interested in software development, infrastructure automation, DevOps practices, and Site Reliability Engineering.
+
+I work with technology operations, application support, monitoring, and system reliability, connecting development and infrastructure to build more efficient and resilient solutions.
+
+I'm continuously expanding my knowledge in software engineering, cloud technologies, automation, and modern development practices.
+
+---
+
+### 🚀 Areas of Interest
+
+- **Software Development:** Node.js, C#, React and JavaScript.
+- **DevOps & Automation:** Docker, Bash, Linux and CI/CD concepts.
+- **Site Reliability Engineering:** System reliability, monitoring, troubleshooting and incident management.
+- **Cloud & Data:** Microsoft Azure, Databricks, SQL and NoSQL databases.
+- **Quality Assurance:** Cypress and Postman.
+
+---
+
+### 🛠️ Languages and Tools
+
 <p align="left">
-<a href="https://linkedin.com/in/bruna-rastelli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bruna rastelli" height="30" width="40" /></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  </a>
+  <a href="https://react.dev/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+  </a>
+  <a href="https://azure.microsoft.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  </a>
+  <a href="https://www.gnu.org/software/bash/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+  <a href="https://www.cypress.io/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original.svg" alt="Cypress" width="40" height="40"/>
+  </a>
+  <a href="https://www.postman.com/">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  </a>
+  <a href="https://www.databricks.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/databricks/databricks-original.svg" alt="Databricks" width="40" height="40"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rastellibru&show_icons=true&locale=en&layout=compact" alt="RastelliBru" /></p>
+### 📊 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RastelliBru&show_icons=true&locale=en" alt="RastelliBru" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RastelliBru&show_icons=true&locale=en&theme=transparent" alt="Bruna's GitHub Stats"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RastelliBru&" alt="RastelliBru" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RastelliBru&layout=compact&locale=en&theme=transparent" alt="Most Used Languages"/>
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RastelliBru&theme=transparent" alt="GitHub Streak"/>
+</p>
+
+---
+
+### 📫 Connect with me
+
+<p align="left">
+  <a href="https://linkedin.com/in/bruna-rastelli" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+  </a>
+  <a href="mailto:bruna.rastelli@gmail.com">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" height="30" width="40"/>
+  </a>
+</p>
+
+📧 **Email:** bruna.rastelli@gmail.com
+
+---
+
+*"Building reliable systems, writing better code, and continuously learning."*
